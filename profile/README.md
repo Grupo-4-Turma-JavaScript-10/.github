@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID" alt="Vertex.bah Logo" width="450"/>
+  <img src="https://github.com/Grupo-4-Turma-JavaScript-10/.github/blob/main/profile/assets/vxb-logo.png?raw=true" alt="Vertex.bah Logo" width="450"/>
   
   <h1>Bem-vindo à Vertex.bah! 👋</h1>
   
