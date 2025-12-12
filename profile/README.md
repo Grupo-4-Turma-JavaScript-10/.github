@@ -1,4 +1,6 @@
 <div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Grupo-4-Turma-JavaScript-10/.github/blob/main/profile/assets/vxb-logoR.png?raw=true" alt="Vertex.bah Logo">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Grupo-4-Turma-JavaScript-10/.github/blob/main/profile/assets/vxb-logoR.png?raw=true" alt="Vertex.bah Logo">
   <img src="https://github.com/Grupo-4-Turma-JavaScript-10/.github/blob/main/profile/assets/vxb-logoR.png?raw=true" alt="Vertex.bah Logo" width="450"/>
   
   <h1>Bem-vindo à Vertex.bah! 👋</h1>
