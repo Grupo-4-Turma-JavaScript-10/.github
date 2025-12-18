@@ -9,7 +9,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/Equipe-7%20Desenvolvedores-orange?style=for-the-badge" alt="Equipe"/>
-    <img src="https://img.shields.io/badge/Localização-Bahia%2C%20Brasil-green?style=for-the-badge" alt="Localização"/>
+    <img src="https://img.shields.io/badge/Localização-Rio Grande do Sul%2C%20Brasil-green?style=for-the-badge" alt="Localização"/>
     <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Full%20Stack-blue?style=for-the-badge" alt="Foco"/>
   </p>
 </div>
